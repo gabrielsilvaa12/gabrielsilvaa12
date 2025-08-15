@@ -1,6 +1,6 @@
 # 💫 About Me:
 Olá, mundo! Eu sou o Gabriel — seja muito bem-vindo ao meu espaço! 🚀  
-Sou entusiasta de tecnologia, focado em desenvolvimento web e design.
+Sou entusiasta de tecnologia, focado em desenvolvimento web e backend.
 
 ---
 
@@ -26,8 +26,8 @@ Sou entusiasta de tecnologia, focado em desenvolvimento web e design.
 ---
 
 ## ✨ Fun Facts:
-- 📍 Brasileiro  
-- 🎨 Gosto de design e UI/UX  
+- 📍 Brasileiro
+-  🖥️ Foco em backend  
 - 📚 Sempre aprendendo algo novo
 
 ---
