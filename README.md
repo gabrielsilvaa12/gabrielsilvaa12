@@ -27,7 +27,7 @@ Sou entusiasta de tecnologia, focado em desenvolvimento web e backend.
 
 ## ✨ Fun Facts:
 - 📍 Brasileiro
--  🖥️ Foco em backend  
+-  🖥️ Desenvolvedor Full Stack  
 - 📚 Sempre aprendendo algo novo
 
 ---
